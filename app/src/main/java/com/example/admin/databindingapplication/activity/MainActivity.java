@@ -48,7 +48,6 @@ public class MainActivity extends AppCompatActivity implements Callback<RootBean
                 adapter.add(bean.getResult().get(i));
             }
            }
-
     }
 
     @Override
