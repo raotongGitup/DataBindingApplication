@@ -21,8 +21,6 @@ import java.util.Map;
 import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
-
-
 public class MainActivity extends AppCompatActivity implements Callback<RootBean> {
     private ActivityMainBinding binding;
     private MyApplication application;
