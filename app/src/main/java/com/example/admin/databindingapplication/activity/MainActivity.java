@@ -42,7 +42,6 @@ public class MainActivity extends AppCompatActivity implements Callback<RootBean
         binding.recyclerview.setAdapter(adapter);
 
     }
-
     @Override
     public void onResponse(Call<RootBean> call, Response<RootBean> response) {
         RootBean bean=response.body();
