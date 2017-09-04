@@ -6,4 +6,5 @@ package com.example.admin.databindingapplication.activity;
  */
 
 public class Test {
+
 }
