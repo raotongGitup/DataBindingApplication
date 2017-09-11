@@ -18,6 +18,5 @@ public class bindingUtils {
                 .load(url)
                 .placeholder(R.mipmap.ic_launcher)
                 .into(view);
-
     }
 }
